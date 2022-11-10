@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: qst-nn
+Version: 0.0.1
+Summary: Quantum state learning with deep neural networks
+Author: Shahnawaz Ahmed
+Author-email: shahnawaz.ahmed95@gmail.com
+License-File: LICENSE
